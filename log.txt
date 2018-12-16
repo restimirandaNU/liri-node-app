@@ -1,5 +1,3 @@
-Invalid Instruction
-Invalid Instruction
 C:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.jsC:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.js concert-this Pet Shop Boys----------------------------------------------
 Venue: 日本武道館
 Location: 千代田区, 東京都
