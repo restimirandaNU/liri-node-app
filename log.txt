@@ -1,0 +1,24 @@
+Invalid Instruction
+Invalid Instruction
+C:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.jsC:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.js concert-this Pet Shop Boys----------------------------------------------
+Venue: 日本武道館
+Location: 千代田区, 東京都
+Date: 04/01/2019
+----------------------------------------------
+Venue: フェスティバルホール
+Location: 大阪市, 大阪府
+Date: 04/02/2019
+C:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.js concert-this BeyonceNo concerts found for Beyonce
+C:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.js concert-this Culture clubNo concerts found for Culture club
+C:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.js spotify-this-song Silent NightArtist(s): Carpenters
+Song name: Silent Night
+Preview: null
+Album: Christmas Portrait (Special Edition)
+C:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.js spotify-this-song Do You Really Want To Hurt MeArtist(s): Culture Club
+Song name: Do You Really Want To Hurt Me
+Preview: null
+Album: Kissing To Be Clever
+C:\Program Files\nodejs\node.exe c:\Users\Resti\working\NUEVA201809FSF4\liri-node-app\liri.js do-what-it-saysArtist(s): Backstreet Boys
+Song name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2c3214c32f42446990fdff4583a74537
+Album: The Hits--Chapter One
