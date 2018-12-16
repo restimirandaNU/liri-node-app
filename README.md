@@ -13,12 +13,12 @@ Node-SPotify-API, Axios, Moment, DotEnv
 
 WHAT EACH COMMAND DOES:
 
-1. node liri.js concert-this <artist/band name here>
+1. node liri.js concert-this <artist/band name here>.
 This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal.
 
 ![concert-thisimage](https://user-images.githubusercontent.com/43328718/50049155-4f342f00-00a3-11e9-8075-4f731a04f184.PNG)
 
-2. node liri.js spotify-this-song <song name here>
+2. node liri.js spotify-this-song <song name here>. 
 This will show the following information about the song in your terminal/bash window
 
      * Artist(s)
@@ -32,7 +32,7 @@ This will show the following information about the song in your terminal/bash wi
 ![spotify-this-songimage](https://user-images.githubusercontent.com/43328718/50049152-3fb4e600-00a3-11e9-83c0-3e2a3890f0e5.PNG)
 
 
-3. node liri.js movie-this '<movie name here>
+3. node liri.js movie-this '<movie name here>.
 This will output the following information to your terminal/bash window:
 
        * Title of the movie.
@@ -46,7 +46,7 @@ This will output the following information to your terminal/bash window:
        
  ![movie-this](https://user-images.githubusercontent.com/43328718/50049154-4b081180-00a3-11e9-8744-752a35718273.PNG)
  
- 4. node liri.js do-what-it-says - 
+ 4. node liri.js do-what-it-says. 
  It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
   
 
