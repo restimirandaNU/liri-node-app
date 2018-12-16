@@ -52,6 +52,9 @@ This will output the following information to your terminal/bash window:
 
 ![do-what-it-say](https://user-images.githubusercontent.com/43328718/50049156-53f8e300-00a3-11e9-8ed7-32b2f15481be.PNG)
 
+
+In addition to logging the data to the terminal/bash window, the log.txt output the data to a .txt file.
+
 This is included in my portfolio. 
 
 
