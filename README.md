@@ -7,7 +7,8 @@ Motivation:
 To use node.js and using Spotify API.
 
 Screenshots:
+https://github.com/restimirandaNU/liri-node-app/issues/1#issue-391427272
 
-https://github.com/restimirandaNU/liri-node-app/issues/1#issuecomment-447611321
+
 
 
